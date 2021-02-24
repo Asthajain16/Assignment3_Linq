@@ -1,0 +1,13 @@
+C:\Users\ASTHA JAIN\assignment3\bin\Debug\netcoreapp3.1\assignment3.exe
+C:\Users\ASTHA JAIN\assignment3\bin\Debug\netcoreapp3.1\assignment3.deps.json
+C:\Users\ASTHA JAIN\assignment3\bin\Debug\netcoreapp3.1\assignment3.runtimeconfig.json
+C:\Users\ASTHA JAIN\assignment3\bin\Debug\netcoreapp3.1\assignment3.runtimeconfig.dev.json
+C:\Users\ASTHA JAIN\assignment3\bin\Debug\netcoreapp3.1\assignment3.dll
+C:\Users\ASTHA JAIN\assignment3\bin\Debug\netcoreapp3.1\assignment3.pdb
+C:\Users\ASTHA JAIN\assignment3\obj\Debug\netcoreapp3.1\assignment3.csprojAssemblyReference.cache
+C:\Users\ASTHA JAIN\assignment3\obj\Debug\netcoreapp3.1\assignment3.AssemblyInfoInputs.cache
+C:\Users\ASTHA JAIN\assignment3\obj\Debug\netcoreapp3.1\assignment3.AssemblyInfo.cs
+C:\Users\ASTHA JAIN\assignment3\obj\Debug\netcoreapp3.1\assignment3.csproj.CoreCompileInputs.cache
+C:\Users\ASTHA JAIN\assignment3\obj\Debug\netcoreapp3.1\assignment3.dll
+C:\Users\ASTHA JAIN\assignment3\obj\Debug\netcoreapp3.1\assignment3.pdb
+C:\Users\ASTHA JAIN\assignment3\obj\Debug\netcoreapp3.1\assignment3.genruntimeconfig.cache
